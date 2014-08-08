@@ -21,7 +21,7 @@ Tablefixedheader 1.0.0
 ## Available options
 
 | Name           | Type           | Description  |
-| -------------  |:--------------:| ------------:|
+| -------------  |:--------------:| :------------|
 | width          | String, Number |Set Table height `Default Value : 300` |
 | height         | String, Number |Set Table width `Default Value : "auto"`|
 | ajaxAutoResize | boolean        ||
