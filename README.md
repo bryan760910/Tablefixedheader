@@ -30,9 +30,15 @@ Tablefixedheader
 
 ## API Methods
 
-| Name           | Description    | 
-| -------------  |:--------------:| 
+| Name           | Description   | 
+| -------------  |:--------------| 
 | SetThWidth     | 重新調整th寬度 <br /> $.wcTableFix("TableName").SetThWidth(); |
 | bindResize     | Rebind resize event <br /> $.wcTableFix("TableName").bindResize(); |
 | SetTableHeight | Set table height <br /> $.wcTableFix("TableName").SetTableHeight();       |
 | SetTableWidth  | Set table width <br /> $.wcTableFix("TableName").SetTableWidth();       |
+
+## Version
+
+* 2014/8/8/  > V.1.0.0
+
+##
