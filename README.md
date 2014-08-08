@@ -20,4 +20,9 @@ Tablefixedheader 1.0.0
   
 ## Attribute
 
+| Attribute Name | Type          | Description  |
+| -------------  |:-------------:| ------------:|
+| width          | String, Number ||
+| height         | String, Number ||
+| ajaxAutoResize | boolean       ||
 
