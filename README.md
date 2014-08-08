@@ -18,11 +18,11 @@ Tablefixedheader 1.0.0
 
   $("#tableName").wcTableFix();
   
-## Attribute
+## Available options
 
-| Attribute Name | Type          | Description  |
-| -------------  |:-------------:| ------------:|
-| width          | String, Number ||
+| Name           | Type           | Description  |
+| -------------  |:--------------:| ------------:|
+| width          | String, Number | Set Table height > Default Value : 300 |
 | height         | String, Number ||
-| ajaxAutoResize | boolean       ||
+| ajaxAutoResize | boolean        ||
 
