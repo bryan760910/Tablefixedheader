@@ -1,6 +1,6 @@
 Tablefixedheader 
 ===========
-這是一個能自動固定表頭的簡單Jquery Plugin
+這是一個能自動固定表頭的簡單Jquery Plugin <br />
 支援Window resize 及 ajax complete 自動變化寬度的功能
 
 ## Requirements
