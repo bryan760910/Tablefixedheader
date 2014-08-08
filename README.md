@@ -22,7 +22,7 @@ Tablefixedheader 1.0.0
 
 | Name           | Type           | Description  |
 | -------------  |:--------------:| :------------|
-| width          | String, Number |Set table height. <br/> `Default Value : 300` |
-| height         | String, Number |Set table width. * `Default Value : "auto"`|
-| ajaxAutoResize | boolean        |Ajax complete 自動調整寬度 * `Default Value : "true"`|
+| width          | String, Number |Set table height. <br />`Default Value : 300` |
+| height         | String, Number |Set table width. <br />`Default Value : "auto"`|
+| ajaxAutoResize | boolean        |Ajax complete 自動調整寬度 <br />`Default Value : "true"`|
 
