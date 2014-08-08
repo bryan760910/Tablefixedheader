@@ -1,0 +1,6 @@
+    <style>
+        .fixedTableHeader_wrap{position:relative; margin:10px; padding:0; overflow:hidden;}
+        .fixedTableHeader_inner {padding:0; border-bottom:1px solid #dddddd; overflow-y:scroll; overflow-x:hidden; -webkit-overflow-scrolling:touch;}
+        .fixedTableHeader_wrap table {margin:0 !important;}
+        .fixedTableHeader_wrap thead th, tbody td{  word-break: break-all;}
+    </style>
