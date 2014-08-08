@@ -39,6 +39,7 @@ Tablefixedheader
 
 ## Version
 
-* 2014/8/8/  > V.1.0.0
+* 2014/8/8/  
+> V.1.0.0
 
 ##
