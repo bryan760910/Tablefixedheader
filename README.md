@@ -7,7 +7,8 @@ Tablefixedheader
 
   * [jquery.ba-resize.js](https://raw.githubusercontent.com/cowboy/jquery-resize/v1.1/jquery.ba-resize.js)
   * [jQuery](http://jquery.com/)
-
+  * [bootstrap Css](http://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css)
+ 
 ## Browser compatibility
 
   * IE 8+
